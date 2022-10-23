@@ -1,0 +1,1 @@
+* use the exported modalLoader function and pass the glb file location as parameter
